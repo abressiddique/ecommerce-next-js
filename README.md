@@ -27,16 +27,16 @@ A Next.js e-commerce website featuring modern UI components and smooth user expe
 
 Here are some screenshots of the project:
 
-![Screenshot 1](demo/image1.png)
-![Screenshot 2](demo/image2.png)
-![Screenshot 3](demo/image3.png)
-![Screenshot 4](demo/image4.png)
-![Screenshot 5](demo/image5.png)
-![Screenshot 6](demo/image6.png)
-![Screenshot 7](demo/image7.png)
-![Screenshot 8](demo/image8.png)
-![Screenshot 9](demo/image9.png)
-![Screenshot 10](demo/image10.png)
+![Screenshot 1](ecommerce-store-main/demo/image1.png)
+![Screenshot 2](ecommerce-store-main/demo/image2.png)
+![Screenshot 3](ecommerce-store-main/demo/image3.png)
+![Screenshot 4](ecommerce-store-main/demo/image4.png)
+![Screenshot 5](ecommerce-store-main/demo/image5.png)
+![Screenshot 6](ecommerce-store-main/demo/image6.png)
+![Screenshot 7](ecommerce-store-main/demo/image7.png)
+![Screenshot 8](ecommerce-store-main/demo/image8.png)
+![Screenshot 9](ecommerce-store-main/demo/image9.png)
+![Screenshot 10](ecommerce-store-main/demo/image10.png)
 
 ## Installation
 
