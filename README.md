@@ -4,6 +4,7 @@
 
 A Next.js e-commerce website featuring modern UI components and smooth user experience. The project leverages Tailwind CSS for styling and Zustand for state management.
 
+
 ## Features
 
 - Product Listings
